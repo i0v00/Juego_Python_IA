@@ -1,0 +1,2 @@
+MatrizX=10
+MatrizY=2
